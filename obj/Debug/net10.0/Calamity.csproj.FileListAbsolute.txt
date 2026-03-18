@@ -1,0 +1,14 @@
+C:\Users\zdene\source\repos\Calamity\Calamity\bin\Debug\net10.0\Calamity.exe
+C:\Users\zdene\source\repos\Calamity\Calamity\bin\Debug\net10.0\Calamity.deps.json
+C:\Users\zdene\source\repos\Calamity\Calamity\bin\Debug\net10.0\Calamity.runtimeconfig.json
+C:\Users\zdene\source\repos\Calamity\Calamity\bin\Debug\net10.0\Calamity.dll
+C:\Users\zdene\source\repos\Calamity\Calamity\bin\Debug\net10.0\Calamity.pdb
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\Calamity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\Calamity.AssemblyInfoInputs.cache
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\Calamity.AssemblyInfo.cs
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\Calamity.csproj.CoreCompileInputs.cache
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\Calamity.dll
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\refint\Calamity.dll
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\Calamity.pdb
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\Calamity.genruntimeconfig.cache
+C:\Users\zdene\source\repos\Calamity\Calamity\obj\Debug\net10.0\ref\Calamity.dll
