@@ -20,6 +20,11 @@ namespace Calamity
             districtTowns.Add(startTown);
         }
 
+        /// <summary>
+        /// Takes current BFS layer and all towns denotes that they are balonging to district (variable in this class).
+        /// </summary>
+        /// <param name="towns">Array of all towns.</param>
+        /// <returns>True if there are not new towns to be assigned to this district. False if new towns exists and are going to be added in next call of this method.</returns>
         public bool CoverNextDistrictLevel(Town[] towns)
         {
             int size = districtTowns.Count;

@@ -66,3 +66,7 @@ wwwroot/
 
 # Others
 *.swp
+
+assignment.png
+datapub/
+.vs/
